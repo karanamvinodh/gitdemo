@@ -1,1 +1,1 @@
-Git is distributed.
+Git is distributed source code mnanagement tool.
