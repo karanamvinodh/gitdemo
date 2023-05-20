@@ -1,1 +1,2 @@
 Git is fast and easy to use and furious.
+Added for feature1.
